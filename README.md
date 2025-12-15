@@ -18,27 +18,27 @@ Any questions about this workshop should be directed to Holly Bik at UGA (lead o
 
 ### Provisional Schedule
 
-Week 1
+Week 1 - Cohort Introductions; The good, the bad, and the ugly; key tools and platforms
 * Tuesday January 20, 3pm-4:30pm US Eastern Time (Science Communication)
 * Thursday January 22, 3pm-4:30pm US Eastern Time (Data Visualization)
 
-Week 2
+Week 2 - Telling a story and making a point
 * Tuesday January 27, 3pm-4:30pm US Eastern Time (Science Communication)
 * Thursday January 229, 3pm-4:30pm US Eastern Time (Data Visualization)
 
-Week 3
+Week 3 - Aesthetics and branding
 * Tuesday February 3, 3pm-4:30pm US Eastern Time (Science Communication)
 * Thursday February 5, 3pm-4:30pm US Eastern Time (Data Visualization)
 
-Week 4
+Week 4 - A tour of platforms and plots
 * Tuesday February 10, 3pm-4:30pm US Eastern Time (Science Communication)
 * Thursday February 12, 3pm-4:30pm US Eastern Time (Data Visualization)
   
-Week 5
+Week 5 - Accessibility and telling your story in different ways
 * Tuesday February 17, 3pm-4:30pm US Eastern Time (Science Communication)
 * Thursday February 19, 3pm-4:30pm US Eastern Time (Data Visualization)
 
-Week 6
+Week 6 - Final presentations and group feedback
 * Tuesday February 24, 3pm-4:30pm US Eastern Time (Science Communication)
 * Thursday February 26, 3pm-4:30pm US Eastern Time (Data Visualization)
 
