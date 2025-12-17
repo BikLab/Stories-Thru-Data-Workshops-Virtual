@@ -26,11 +26,11 @@ Week 2 - Telling a story and making a point
 * Tuesday January 27, 3pm-4:30pm US Eastern Time (Science Communication)
 * Thursday January 229, 3pm-4:30pm US Eastern Time (Data Visualization)
 
-Week 3 - Aesthetics and branding
+Week 3 - Color, aesthetics, and branding
 * Tuesday February 3, 3pm-4:30pm US Eastern Time (Science Communication)
 * Thursday February 5, 3pm-4:30pm US Eastern Time (Data Visualization)
 
-Week 4 - A tour of platforms and plots
+Week 4 - A tour of scientific visualization - plots, maps, and data-driven storytelling
 * Tuesday February 10, 3pm-4:30pm US Eastern Time (Science Communication)
 * Thursday February 12, 3pm-4:30pm US Eastern Time (Data Visualization)
   
