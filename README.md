@@ -4,7 +4,7 @@
 ### Location: Virtual (Zoom) sessions
 ### Schedule: Two 1.5 hour Zoom sessions per week, Tuesdays and Thursdays 3pm - 4:30pm US Eastern Time (New York City time zone)
 
-### Application Form: https://forms.gle/EramGRJ1DnFFaEC77 form closes Saturday January 10, 2026 at 11:59PM US Eastern Time
+### Application Form: https://forms.gle/dvvWxhi7YU2ATZx58 form closes Saturday January 10, 2026 at 11:59PM US Eastern Time
 
 Applications to participate will close on **Saturday January 10th**, and selected participants will be notified of acceptance the following week (week of January 12th). Due to space and funding constraints, this year's workshop will be capped at 20 participants. This virutal workshop is FREE for all selected participants. 
 
