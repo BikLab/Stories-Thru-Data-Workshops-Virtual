@@ -34,27 +34,27 @@ This is a series of three summer workshops funded through Holly Bik's CAREER gra
 Dataset Focus: Host-Associated Microbiomes
 
 Week 1 - Cohort Introductions; The good, the bad, and the ugly; key tools and platforms
-* Tuesday January 20, 3pm-4:30pm US Eastern Time (Science Communication)
-* Thursday January 22, 3pm-4:30pm US Eastern Time (Data Visualization)
+* Tuesday January 20, 3pm-4:30pm US Eastern Time (Data Visualization)
+* Thursday January 22, 3pm-4:30pm US Eastern Time (Science Communication)
 
 Week 2 - Telling a story and making a point
-* Tuesday January 27, 3pm-4:30pm US Eastern Time (Science Communication)
-* Thursday January 229, 3pm-4:30pm US Eastern Time (Data Visualization)
+* Tuesday January 27, 3pm-4:30pm US Eastern Time (Data Visualization)
+* Thursday January 229, 3pm-4:30pm US Eastern Time (Science Communication)
 
 Week 3 - Color, aesthetics, and branding
-* Tuesday February 3, 3pm-4:30pm US Eastern Time (Science Communication)
-* Thursday February 5, 3pm-4:30pm US Eastern Time (Data Visualization)
+* Tuesday February 3, 3pm-4:30pm US Eastern Time (Data Visualization)
+* Thursday February 5, 3pm-4:30pm US Eastern Time (Science Communication)
 
 Week 4 - A tour of scientific visualization - plots, maps, and data-driven storytelling
-* Tuesday February 10, 3pm-4:30pm US Eastern Time (Science Communication)
-* Thursday February 12, 3pm-4:30pm US Eastern Time (Data Visualization)
+* Tuesday February 10, 3pm-4:30pm US Eastern Time (Data Visualization)
+* Thursday February 12, 3pm-4:30pm US Eastern Time (Science Communication)
   
 Week 5 - Accessibility and telling your story in different ways
-* Tuesday February 17, 3pm-4:30pm US Eastern Time (Science Communication)
-* Thursday February 19, 3pm-4:30pm US Eastern Time (Data Visualization)
+* Tuesday February 17, 3pm-4:30pm US Eastern Time (Data Visualization)
+* Thursday February 19, 3pm-4:30pm US Eastern Time (Science Communication)
 
 Week 6 - Final presentations and group feedback
-* Tuesday February 24, 3pm-4:30pm US Eastern Time (Science Communication)
-* Thursday February 26, 3pm-4:30pm US Eastern Time (Data Visualization)
+* Tuesday February 24, 3pm-4:30pm US Eastern Time (Data Visualization)
+* Thursday February 26, 3pm-4:30pm US Eastern Time (Science Communication)
 
 
