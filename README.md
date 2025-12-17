@@ -1,6 +1,6 @@
 # "Telling Stories Through Data" - Virtual Workshops (2026 and 2027)
 
-### Next Workshop Series: January 20 - Februay 26, 2026
+### Next Workshop Series: January 20 - February 26, 2026
 ### Location: Virtual (Zoom) sessions
 ### Schedule: Two 1.5 hour Zoom sessions per week, Tuesdays and Thursdays 3pm - 4:30pm US Eastern Time (New York City time zone)
 
